@@ -18,12 +18,12 @@ body{
 }
 
 .button{
-    background-color: black;
-    font-size: 14px;
+    background-color: var(--eu-color-base-spacefire-sf65);
+    font-size: var(--eu-font-font-size-heading-large);
     color: #fff;
     padding: 8px 16px;
     height: 40px;
     border: none;
-    border-radius: 4px;
+    border-radius: var(--eu-size-border-radius-semi);
     cursor: pointer;
 }
